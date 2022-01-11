@@ -13,7 +13,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    return "Flask app is running on Heroku"
+    return "Flask app is running on Heroku\nI'm trying to change something to check the CI CD pipeline"
 
 
 port = int(os.getenv("PORT", 5001))
