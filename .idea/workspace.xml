@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f586f4ca-ed52-4a57-bc63-a85cce5fa4c5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTransform_Training/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTransformation_Prediction/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypeValidation_Insertion_Prediction/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypeValidation_Insertion_Training/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Prediction_Raw_Data_Validation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Training_Raw_data_validation/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application_logging/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application_logging/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/best_model_finder/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_ingestion/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_preprocessing/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/file_operations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/docker_herko_deployment.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker_heroku.egg-info/PKG-INFO" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker_heroku.egg-info/SOURCES.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker_heroku.egg-info/dependency_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker_heroku.egg-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +91,7 @@
       <workItem from="1642060524032" duration="3353000" />
       <workItem from="1642069393754" duration="2283000" />
       <workItem from="1642072441096" duration="1331000" />
-      <workItem from="1642082432508" duration="1322000" />
+      <workItem from="1642082432508" duration="2810000" />
     </task>
     <servers />
   </component>
